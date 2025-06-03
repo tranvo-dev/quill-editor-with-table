@@ -1,4 +1,4 @@
-# My Rich Text Editor
+# Quill Editor with Table
 
 This is a sample project demonstrate how to create a rich text editor with Quill JS
 
